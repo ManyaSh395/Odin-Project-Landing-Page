@@ -60,6 +60,7 @@
 }
 
 .sign-up-button{
+    cursor: pointer;
     color:#F9FAF8;
     background-color: #3882F6;
     padding-top: 6px;
@@ -151,6 +152,7 @@
 }
 
 .signup{
+    cursor: pointer;
     color:#F9FAF8;
     background-color: #3882F6;
     padding: 6px 9px 6px 9px;
