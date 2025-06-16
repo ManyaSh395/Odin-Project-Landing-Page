@@ -1,6 +1,6 @@
 # Odin-Project-Landing-Page
 With this project, I created an entire web page from a reference design. This project tests my HTML and css foundation skills.
-Sign up
+
 
 ## TEXT:-
 
