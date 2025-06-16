@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    height: 48vh;
+    font-family: Roboto;
+}
+
+.header-logo{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-link{
+    cursor: pointer;
+    color: #E5E7EB;
+}
+
+.header-section{
+    padding: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 700px;
+    font-size: 0.8rem;
+}
+
+.links{
+    display: flex;
+    gap: 40px;
+}
+
+.top-section{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.top-section-text{
+    max-width: 36%;
+    margin-left: 150px;
+}
+
+.main-hero-text{
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 8px;
+}
+
+.sub-hero-text{
+    font-size: 18px;
+    margin-bottom: 8px;
+    color: #E5E7EB;
+}
+
+.sign-up-button{
+    color:#F9FAF8;
+    background-color: #3882F6;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 9px;
+    padding-right: 9px;
+    border: none;
+    border-radius: 5px;
+}
+
+#img1{
+    height: 180px;
+    width: 300px;
+    margin-right: 150px;
+}
+
+.information-section{
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.info-text{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 36px;
+    color:#1F2937;
+    font-weight: 900;
+}
+
+.img-text-combo{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.img-subtext{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+
+#img2{
+    height: 100px;
+    width: 100px;
+    border: 3px solid #3882F6;
+    border-radius: 5px;
+}
+
+#subtext{
+    font-size: 15px;
+    color:#1F2937;
+    max-width: 38%;
+    text-align: center;
+}
+
+.testimonial-section{
+    background-color: #E5E7EB;
+    text-align: center;
+    padding: 60px 180px 60px 180px;
+}
+
+#quote{
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+#quote-author{
+    font-size: 1rem;
+    font-weight: 800;
+    text-align: right;
+    color: #1f2937;
+}
+
+.call-to-action{
+    color:#F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    margin: 60px 300px 60px 300px;
+    background-color: #3882F6;
+    padding: 20px 50px 20px 50px;
+    border-radius: 6px;
+}
+
+.signup{
+    color:#F9FAF8;
+    background-color: #3882F6;
+    padding: 6px 9px 6px 9px;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+}
+
+.copyright{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
